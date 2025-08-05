@@ -1,5 +1,5 @@
 # OrvixCLI
-![Orvix CLI](https://imgur.com/a/M0jALXA)
+![Screenshot](./images/screenshot.png)
 ---
 
 ## 🚀 Getting Started
