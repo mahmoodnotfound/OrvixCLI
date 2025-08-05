@@ -1,4 +1,4 @@
-# OrvixCLI
+# Preview:
 ![Screenshot](./images/screenshot.png)
 
 ## 🚀 Getting Started
