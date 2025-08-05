@@ -7,12 +7,13 @@
 - Windows OS
 - [.NET Framework 4.7.2 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
 
-> Most modern Windows systems already include this by default.
+> Most modern Windows systems already include this by default
 
 ### 📥 Download
-Download the latest release from the [Releases](https://github.com/mahmoodnotfound/OrvixCLI/releases) page.
+Download the latest release from the [Releases](https://github.com/mahmoodnotfound/OrvixCLI/releases) page
 
-No installation needed — just run the `OrvixCLI.exe` file.
+After downloading, extract the .zip file
+No installation needed just run the `OrvixCLI.exe`
 
 
 ## 🙏 Credits
