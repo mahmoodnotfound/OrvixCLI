@@ -23,4 +23,4 @@ No installation needed — just run the `OrvixCLI.exe` file.
 ## 💬 Notes
 
 - Run with admin privileges for full functionality (e.g., process killing)
-- Suggestions or feature requests? Feel free to open an issue
+- Want to suggest a feature or report a bug? open an [issue](https://github.com/mahmoodnotfound/OrvixCLI/issues).
