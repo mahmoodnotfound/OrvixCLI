@@ -19,11 +19,3 @@ No installation needed — just run the `.exe` file.
 ## 🙏 Credits
 
 - **OpenHardwareMonitorLib** – For accessing detailed hardware statistics (CPU, GPU, RAM, etc.)
-
----
-
-## 🔐 License
-
-This project is distributed as a **closed-source** application.  
-Compiled binary is free to use, but the source code is not distributed.
-
